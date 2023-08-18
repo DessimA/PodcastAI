@@ -41,3 +41,5 @@ Bem-vindos a mais um episódio do nosso podcast "Explorando as Técnicas Essenci
 - Agradecimentos aos colaboradores e recursos envolvidos na criação do livro e do podcast.
 
 Aproveite este episódio para aprofundar seu entendimento sobre as técnicas essenciais de front-end com React. Se você gostou deste podcast, não deixe de conferir o livro completo para uma experiência mais abrangente e detalhada. Até o próximo episódio!
+
+Criado por ChatGPT e apresentado por NaturalReaders, revisão DessimA.
